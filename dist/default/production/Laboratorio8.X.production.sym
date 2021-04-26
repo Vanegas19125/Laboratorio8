@@ -168,7 +168,7 @@ cstackCOMMON 70 79 COMMON 70 1
 cstackBANK0 20 38 BANK0 20 1
 %locals
 dist/default/production\Laboratorio8.X.production.o
-C:\Users\vaneg\AppData\Local\Temp\s1lc.s
+C:\Users\vaneg\AppData\Local\Temp\sre4.s
 490 11 0 CODE 0
 493 11 0 CODE 0
 513 11 0 CODE 0

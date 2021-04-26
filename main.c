@@ -1,5 +1,5 @@
 /* 
- * File:   ADC.c
+ * File:   main.c
  * Author: Jose Victor Vanegas
  *
  * Created on 19 de abril de 2021, 11:58 AM
