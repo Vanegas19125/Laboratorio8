@@ -1,6 +1,6 @@
 /* 
  * File:   ADC.c
- * Author: Juan Diego Villafuerte Pazos
+ * Author: Jose Victor Vanegas
  *
  * Created on 19 de abril de 2021, 11:58 AM
  */
